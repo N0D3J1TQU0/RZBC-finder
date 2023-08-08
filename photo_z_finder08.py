@@ -65,7 +65,7 @@ resume = False                       #stack results to last pztab (check tab exc
 bricky = False                        #is data bricked?
 ##################################
 #------------tab_excepts----------------#  ???
-tab = Table(tab[list(tab[tab.colnames[nameind]]).index("J1257-2926")])         #use this line for individual cluster run ??? (comment for full table)
+#tab = Table(tab[list(tab[tab.colnames[nameind]]).index("J1257-2926")])         #use this line for individual cluster run ??? (comment for full table)
 #tab = tab[np.logical_and(tab[tab.colnames[nameind]]!="SPT-CLJ0205-5829",tab[tab.colnames[nameind]]!="SPT-CLJ2040-4451")]         #use this line to remove some clusters 
 #tab = tab[tab[tab.colnames[nameind]]!="em01_106144_020_ML00009_009_c947"]     #no band info
 #tab = tab[tab[tab.colnames[nameind]]!="SPT-CLJ2100-5708"]
