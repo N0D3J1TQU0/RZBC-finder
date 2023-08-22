@@ -39,8 +39,13 @@ cosmo_ero = FlatLambdaCDM(H0=70.0,Om0=0.3) #eROSITA cosmology
 
 =========================================================
 
-To run get inside SPT-ECS folder and prompt "run ../photo_z_finder08.py"
+#To run get inside SPT-ECS folder and prompt "run ../photo_z_finder08.py"
 
-This will process the .csv catalogs for each cluster stated in the target table "tab"
-![alt text](https://github.com/N0D3J1TQU0/RZBC-finder/blob/main/fullplot.jpg)
+#This will process the .csv catalogs for each cluster stated in the target table "tab"
+![alt text](https://github.com/N0D3J1TQU0/RZBC-finder/blob/main/SPT-ECS/fullplot.jpg)
+
+# Example cluster J1131-1955
+![alt text](https://github.com/N0D3J1TQU0/RZBC-finder/blob/main/SPT-ECS/J1131-1955/J1131-1955_z1_chi2.jpg)
+![alt text](https://github.com/N0D3J1TQU0/RZBC-finder/blob/main/SPT-ECS/J1131-1955/J1131-1955_z1_cmd.jpg)
+![alt text](https://github.com/N0D3J1TQU0/RZBC-finder/blob/main/SPT-ECS/J1131-1955/gr_overdensity.jpg)
 
