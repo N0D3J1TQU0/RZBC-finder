@@ -1,4 +1,6 @@
-# Red-z-bfinder
+# RZBC finder
+
+#Red sequence-redshift Binned method Correlation finder
 
 #IMPORTS USED - install via pip if not available
 
